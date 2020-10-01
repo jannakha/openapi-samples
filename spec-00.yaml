@@ -11,6 +11,12 @@ info:
   contact:
     name: 4th Platform Team
     email: 4pf@tid.es
+  x-status:
+    status: Deprecated
+    date: 01/04/2020
+  x-consumers:
+    - Individuals
+    - Business
 x-fp-apiPrefix: /subscribed_products
 tags:
   - name: subscribed_products
