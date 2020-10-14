@@ -12,7 +12,7 @@ info:
     name: 4th Platform Team
     email: 4pf@tid.es
   x-status:
-    status: Deprecated
+    status: Current
     date: 01/04/2022
   x-consumers:
     - Individual
