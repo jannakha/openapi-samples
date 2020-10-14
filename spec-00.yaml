@@ -13,10 +13,10 @@ info:
     email: 4pf@tid.es
   x-status:
     status: Deprecated
-   date: 01/04/2022
+    date: 01/04/2022
   x-consumers:
     - Individual
-   - Business
+    - Business
 x-fp-apiPrefix: /subscribed_products
 tags:
   - name: subscribed_products
