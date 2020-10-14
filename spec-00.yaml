@@ -3,9 +3,9 @@ servers:
   - url: /subscribed_products/v1.0.1
 info:
   description: >-
-    NEW DESCRIPTION 88!!!! API to get information on services currently subscribed by a specific user
+    NEW DESCRIPTION 99!!!! API to get information on services currently subscribed by a specific user
     or phone number.
-  version: 1.0.100
+  version: 1.0.222
   title: Products API definition for the 4th Platform
   termsOfService: 'https://www.telefonica.es/es/'
   contact:
@@ -13,7 +13,7 @@ info:
     email: 4pf@tid.es
   x-status:
     status: Deprecated
-    date: 01/04/2021
+    date: 01/04/2022
   x-consumers:
     - Individual
     - Business
