@@ -16,7 +16,7 @@ info:
     date: 01/04/2022
   x-consumers:
     - Individual
-    - Business
+   - Business
 x-fp-apiPrefix: /subscribed_products
 tags:
   - name: subscribed_products
