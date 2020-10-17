@@ -3,7 +3,7 @@ servers:
   - url: /subscribed_products/v1.0.1
 info:
   description: >-
-    NEW DESCRIPTION 666!!!! API to get information on services currently subscribed by a specific user
+    NEW DESCRIPTION 0999!!!! API to get information on services currently subscribed by a specific user
     or phone number.
   version: 1.0.999
   title: Products API definition for the 4th Platform
