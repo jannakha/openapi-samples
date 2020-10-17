@@ -5,7 +5,7 @@ info:
   description: >-
     NEW DESCRIPTION 666!!!! API to get information on services currently subscribed by a specific user
     or phone number.
-  version: 1.0.777
+  version: 1.0.999
   title: Products API definition for the 4th Platform
   termsOfService: 'https://www.telefonica.es/es/'
   contact:
@@ -13,7 +13,7 @@ info:
     email: 4pf@tid.es
   x-status:
     status: Proposed
-    date: 01/04/2022
+    date: 01/04/2029
   x-consumers:
     - Individual
     - Business
