@@ -17,6 +17,8 @@ info:
   x-consumers:
     - Individual
     - Business
+    - Businesses
+    - @Businesses
 x-fp-apiPrefix: /subscribed_products
 tags:
   - name: subscribed_products
